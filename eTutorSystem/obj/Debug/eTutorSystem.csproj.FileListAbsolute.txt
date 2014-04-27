@@ -1,0 +1,107 @@
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\eTutorSystem\bin\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\eTutorSystem\bin\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+E:\Libraries\University\backup\eTutorSystem\eTutorSystem\bin\eTutorSystem.dll
+E:\Libraries\University\backup\eTutorSystem\eTutorSystem\bin\eTutorSystem.pdb
+E:\Libraries\University\backup\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+E:\Libraries\University\backup\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.dll
+E:\Libraries\University\backup\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.pdb
+\\storage-stud\user-area\0\lj048\Year 3\COMP1640\Central\Implementation\eTutorSystem - v1\eTutorSystem\eTutorSystem\bin\eTutorSystem.dll
+\\storage-stud\user-area\0\lj048\Year 3\COMP1640\Central\Implementation\eTutorSystem - v1\eTutorSystem\eTutorSystem\bin\eTutorSystem.pdb
+\\storage-stud\user-area\0\lj048\Year 3\COMP1640\Central\Implementation\eTutorSystem - v1\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\0\lj048\Year 3\COMP1640\Central\Implementation\eTutorSystem - v1\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.dll
+\\storage-stud\user-area\0\lj048\Year 3\COMP1640\Central\Implementation\eTutorSystem - v1\eTutorSystem\eTutorSystem\obj\Debug\eTutorSystem.pdb
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v1\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v1\eTutorSystem\obj\Debug\eTutorSystem.dll
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v1\eTutorSystem\obj\Debug\eTutorSystem.pdb
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v1\eTutorSystem\bin\eTutorSystem.dll
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v1\eTutorSystem\bin\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _2\eTutorSystem\bin\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _2\eTutorSystem\bin\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _2\eTutorSystem\obj\Debug\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _2\eTutorSystem\obj\Debug\eTutorSystem.pdb
+I:\projects\eTutorSystem\bin\eTutorSystem.dll
+I:\projects\eTutorSystem\bin\eTutorSystem.pdb
+I:\projects\eTutorSystem\obj\Debug\eTutorSystem.dll
+I:\projects\eTutorSystem\obj\Debug\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _2\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\3\bj339\Desktop\Working_Copy\eTutorSystem\bin\eTutorSystem.dll
+\\storage-stud\user-area\3\bj339\Desktop\Working_Copy\eTutorSystem\bin\eTutorSystem.pdb
+\\storage-stud\user-area\3\bj339\Desktop\Working_Copy\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\3\bj339\Desktop\Working_Copy\eTutorSystem\obj\Debug\eTutorSystem.dll
+\\storage-stud\user-area\3\bj339\Desktop\Working_Copy\eTutorSystem\obj\Debug\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _3\eTutorSystem\bin\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _3\eTutorSystem\bin\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _3\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _3\eTutorSystem\obj\Debug\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _3\eTutorSystem\obj\Debug\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _4\eTutorSystem\bin\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _4\eTutorSystem\bin\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _4\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _4\eTutorSystem\obj\Debug\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _4\eTutorSystem\obj\Debug\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _5\eTutorSystem\bin\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _5\eTutorSystem\bin\eTutorSystem.pdb
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _5\eTutorSystem\obj\Debug\eTutorSystem.dll
+E:\Libraries\University\Enterprise Systems\Implementation\eTutorSystem\Version _5\eTutorSystem\obj\Debug\eTutorSystem.pdb
+\\storage-stud\user-area\3\bj339\Desktop\Version - v6\eTutorSystem\bin\eTutorSystem.dll
+\\storage-stud\user-area\3\bj339\Desktop\Version - v6\eTutorSystem\bin\eTutorSystem.pdb
+\\storage-stud\user-area\3\bj339\Desktop\Version - v6\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\3\bj339\Desktop\Version - v6\eTutorSystem\obj\Debug\eTutorSystem.dll
+\\storage-stud\user-area\3\bj339\Desktop\Version - v6\eTutorSystem\obj\Debug\eTutorSystem.pdb
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v6\eTutorSystem\bin\eTutorSystem.dll
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v6\eTutorSystem\bin\eTutorSystem.pdb
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v6\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v6\eTutorSystem\obj\Debug\eTutorSystem.dll
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v6\eTutorSystem\obj\Debug\eTutorSystem.pdb
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v7\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v7\eTutorSystem\obj\Debug\eTutorSystem.dll
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v7\eTutorSystem\obj\Debug\eTutorSystem.pdb
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v7\eTutorSystem\bin\eTutorSystem.dll
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v7\eTutorSystem\bin\eTutorSystem.pdb
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v7\eTutorSystem\bin\eTutorSystem.dll
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v7\eTutorSystem\bin\eTutorSystem.pdb
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v7\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v7\eTutorSystem\obj\Debug\eTutorSystem.dll
+\\storage-stud\user-area\0\lj048\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v7\eTutorSystem\obj\Debug\eTutorSystem.pdb
+\\storage-stud\user-area\3\bj339\Desktop\current\eTutorSystem\bin\eTutorSystem.dll
+\\storage-stud\user-area\3\bj339\Desktop\current\eTutorSystem\bin\eTutorSystem.pdb
+\\storage-stud\user-area\3\bj339\Desktop\current\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\3\bj339\Desktop\current\eTutorSystem\obj\Debug\eTutorSystem.dll
+\\storage-stud\user-area\3\bj339\Desktop\current\eTutorSystem\obj\Debug\eTutorSystem.pdb
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v8\eTutorSystem\bin\eTutorSystem.dll
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v8\eTutorSystem\bin\eTutorSystem.pdb
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v8\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v8\eTutorSystem\obj\Debug\eTutorSystem.dll
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v8\eTutorSystem\obj\Debug\eTutorSystem.pdb
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v9\eTutorSystem\bin\eTutorSystem.dll
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v9\eTutorSystem\bin\eTutorSystem.pdb
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.dll
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.pdb
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Central\Implementation\eTutorSystem - v9\eTutorSystem\bin\eTutorSystem.dll
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Central\Implementation\eTutorSystem - v9\eTutorSystem\bin\eTutorSystem.pdb
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Central\Implementation\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Central\Implementation\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.dll
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Central\Implementation\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.pdb
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Hilal\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Hilal\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.dll
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Hilal\eTutorSystem - v9\eTutorSystem\obj\Debug\eTutorSystem.pdb
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Hilal\eTutorSystem - v9\eTutorSystem\bin\eTutorSystem.dll
+\\storage-stud\user-area\1\dh110\Desktop\Year3\ENTERPRISE\ELITEfALCON\EliteFalcons\Hilal\eTutorSystem - v9\eTutorSystem\bin\eTutorSystem.pdb
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v11\eTutorSystem\bin\eTutorSystem.dll
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v11\eTutorSystem\bin\eTutorSystem.pdb
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v11\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v11\eTutorSystem\obj\Debug\eTutorSystem.dll
+J:\Year 3\EliteFalcons2\Central\Implementation\eTutorSystem - v11\eTutorSystem\obj\Debug\eTutorSystem.pdb
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v11\eTutorSystem\bin\eTutorSystem.dll
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v11\eTutorSystem\bin\eTutorSystem.pdb
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v11\eTutorSystem\obj\Debug\eTutorSystem.csprojResolveAssemblyReference.cache
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v11\eTutorSystem\obj\Debug\eTutorSystem.dll
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v11\eTutorSystem\obj\Debug\eTutorSystem.pdb
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v12\eTutorSystem\bin\eTutorSystem.dll
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v12\eTutorSystem\bin\eTutorSystem.pdb
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v12\eTutorSystem\obj\Debug\eTutorSystem.dll
+J:\Enterprise Folder\Central\Implementation\eTutorSystem - v12\eTutorSystem\obj\Debug\eTutorSystem.pdb

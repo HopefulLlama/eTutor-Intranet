@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Login.master.cs" Inherits="eTutorSystem.MasterPages.Login" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="head" runat="server">
+            <!-- title content area -->
+        </asp:ContentPlaceHolder>
+    </title>
+
+    <link href="Style.css" rel="stylesheet" />
+    <link href="../content/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body class="body">
+    <form id="loginmMain" runat="server">
+        <div class="header_back_login">
+            <div class="header_top_bar"></div>
+	        
+            <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          
+          <a class="navbar-brand" href="#">UoG eTutor System</a>
+        </div>
+      </div>
+    </div>
+	        <div class="header_bottom_bar"></div>
+	    </div>
+        <div class="main_content">
+            <asp:ContentPlaceHolder ID="mainContent" runat="server">
+                <!-- content area -->
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
+

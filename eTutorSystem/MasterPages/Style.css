@@ -1,0 +1,200 @@
+﻿body{
+	background:#e1e1e1;
+    text-align: center;
+}
+
+.header_back_main{
+	background:#EEEEEE;
+	width: 100%;
+	height: 205px;
+	min-width:800px;
+}
+
+.header_back_login{
+	background:#ffffff;
+	width: 100%;
+	height: 170px;
+	min-width:800px;
+}
+
+.header_top_bar{
+	height:5px;
+	background:#1F4F89;
+}
+
+.header_middle{
+	height:160px;
+	background:#323234;
+    text-align: left;
+}
+
+.header_middle_bar{
+	height:5px;
+	background:#1F4F89;
+}
+
+.logo{
+	margin-top:2.5px;
+	margin-left:20px;
+    position:absolute;
+    float:left;
+}
+
+.header_nav{
+	height:30px;
+	margin:auto;
+	width:803px;
+}
+.header_nav2{
+	height:30px;
+	margin:auto;
+	width:455px;
+}
+
+.header_nav ul {
+	margin:auto;
+	padding:0;
+	height:30px;
+}
+
+.header_nav2 ul {
+	margin:auto;
+	padding:0;
+	height:30px;
+}
+
+.header_nav ul li   {
+	float:left;
+	list-style-type:none;
+}
+
+.header_nav2 ul li   {
+	float:left;
+	list-style-type:none;
+}
+
+.header_nav ul li a {
+	background:#323234;
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	text-align:center;
+	line-height:30px;
+	height:30px;
+	width:150px;
+	
+	font-family:'Lato',Calibri,Arial,sans-serif;
+	font-size:20px;
+	border-left:solid thin #cccccc;
+}
+
+.header_nav2 ul li a {
+	background:#323234;
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	text-align:center;
+	line-height:30px;
+	height:30px;
+	width:150px;
+	
+	font-family:'Lato',Calibri,Arial,sans-serif;
+	font-size:20px;
+	border-left:solid thin #cccccc;
+}
+
+.header_nav ul li a:hover {
+	background:#1F4F89;
+}
+
+.header_nav2 ul li a:hover {
+	background:#1F4F89;
+}
+
+.header_bottom_bar{
+	height:5px;
+	background:#1F4F89;
+}
+
+.no-border{
+	border:none !important;
+}
+
+.main_content{
+	height:auto;
+	margin-top: 80px;
+	margin-left:5%;
+	margin-right:5%;
+	background:#ffffff;
+}
+
+h1 {
+    color:#1F4F89;
+    font-family:'Lato',Calibri,Arial,sans-serif;
+	font-size:40px;
+    text-align:center;
+}
+
+.errorLabel {
+    color:#990F12;
+    font-family:'Lato',Calibri,Arial,sans-serif;
+	font-size:16px;
+    text-align:center;
+}
+
+.titleLabel {
+    color:#1F4F89;
+    font-family:'Lato',Calibri,Arial,sans-serif;
+	font-size:20px;
+    text-align:justify;
+}
+
+.login_top {
+    text-align:center;
+}
+
+.login_middle {
+    text-align:center;
+}
+
+.login_bottom {
+    text-align:center;
+}
+
+.welcome {
+    float:right;
+    color:#ffffff;
+    font-family:'Lato',Calibri,Arial,sans-serif;
+	font-size:18px;
+    color: #999;
+}
+
+.logout_lbl {
+    color:#999 !important;
+    text-decoration:underline;
+    cursor:pointer;
+}
+
+.standardLabel {
+    color:#1F4F89;
+    font-family:'Lato',Calibri,Arial,sans-serif;
+	font-size:16px;
+    text-align:justify;
+}
+
+.standardLinkButton {
+    color:#1F4F89 !important;
+    font-family:'Lato',Calibri,Arial,sans-serif;
+	font-size:16px;
+    text-decoration:underline;
+    text-align:justify;
+    cursor:pointer;
+}
+
+.messageBoxLeft {
+    margin-left:10%;
+}
+
+.table {
+    width: 80%;
+}
